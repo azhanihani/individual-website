@@ -1,0 +1,52 @@
+body
+	{
+		background-color: #f67e7d;
+	}
+
+h1 
+
+	{
+		background-color: #ffb997;
+		font-face: ink free;
+		fony-size: 100px;
+		color: tomato;
+		
+	}
+
+
+p
+	{
+		font-size: 30px;
+		text-align: center;
+		color: indigo;
+		font-family: 'Amatic SC', cursive;
+		padding: 30px;
+
+
+}
+
+a:link, a:visited
+		{
+			background-color: gray;
+			color: sandybrown;
+			padding: 15px;
+			text-allign: center;
+			text-decoration: none;
+			display: inline-block;
+			border-radius: 10px;
+			
+		}
+
+
+		
+a:hover, a:active
+		{
+			
+			background-color: tan;
+			color: white;
+			
+		}
+
+
+
+
